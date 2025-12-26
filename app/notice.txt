@@ -1,0 +1,2 @@
+1. how to make changes in the if i loose my tailwind config file now 
+   dark mode enabling 
